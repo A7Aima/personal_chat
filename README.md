@@ -1,16 +1,21 @@
 # Personal Chat
 
-A new Flutter project.
+Chatting app 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+mandatory installation
 
-A few resources to get you started if this is your first Flutter project:
+flutter 
+vs code with flutter and dart extensions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+for running project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+first on android mobile open the developer option and enable the usb debugging
+then connect the mobile with laptop it should show the device name at the bottom rt corner of vs code
+click on run at to left corner and then click on start debugging
+it will install the app in 5 to 10 mins
+
+for building apk:
+
+run "flutter build apk" on the terminal of debug console
