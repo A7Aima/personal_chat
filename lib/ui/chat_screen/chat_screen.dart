@@ -4,7 +4,6 @@ import 'package:PersonalChat/const/local_data/local_data.dart';
 import 'package:PersonalChat/model/chat_val_model/chat_val_model.dart';
 import 'package:PersonalChat/store/chat_store/chat_store.dart';
 import 'package:PersonalChat/utility/mixin/base_mixin/base_mixin.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:share_plus/share_plus.dart';
